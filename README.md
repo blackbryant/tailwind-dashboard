@@ -20,5 +20,11 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+###
+ $ cd tailwind-dashboard
+ $ npm run serve
+ $ npm install -D tailwindcss postcss autoprefixer
+ $ npx tailwindcss init -p
+
+### if the package  is eslint<7.5.0 that need to  update eslint@=7.5.0
+ $  npm install eslint@=7.5.0
