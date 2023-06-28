@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    h1 {@apply text-4xl font-serif my-2}
+
+}
+
+@layer components{
+    .danger{
+        @apply border-red-500 text-red-500
+    }
+}

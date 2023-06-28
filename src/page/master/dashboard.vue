@@ -12,7 +12,7 @@
         <div class="flex flex-col justify-between h-full px-[20px]">
           <div class=" flex flex-col justify-between space-y-[10px] ">
               <router-link to="/home" class="inline-flex relative items-start py-[10px] w-full text-white">
-                <svg aria-hidden="true" class="mr-2 w-[23px] h-[23px] full-current"  fill="currentColor">
+                <svg aria-hidden="true" class="mr-2 w-[23px] h-[23px] fill-white"  >
                   <path fill-rule="evenodd" d="M17.982 18.725A7.488 7.488 0 0012 15.75a7.488 7.488 0 00-5.982 2.975m11.963 0a9 9 0 10-11.963 0m11.963 0A8.966 8.966 0 0112 21a8.966 8.966 0 01-5.982-2.275M15 9.75a3 3 0 11-6 0 3 3 0 016 0z"></path>
                 </svg> 
                 Home
